@@ -1,6 +1,6 @@
 <dl>
 <dt>A data scraper</dt>
-<dd>This a simpler data scraper.</dd>
+<dd>This is a simpler data scraper.</dd>
 
 <dt>How to run it</dt>
 <dd>First you need to change the source code with your editor and then run.</dd>
