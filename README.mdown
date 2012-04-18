@@ -1,0 +1,11 @@
+<dl>
+<dt>A data scraper</dt>
+<dd>This a simpler data scraper.</dd>
+
+<dt>How to run it</dt>
+<dd>First you need to change the source code with your editor and then run.</dd>
+
+<dt>License</dt>
+<dd>Licensed under GNU GPL version 3 license (http://www.gnu.org/licenses/gpl-3.0.txt) except as noted otherwise.</dd>
+</dl>
+
